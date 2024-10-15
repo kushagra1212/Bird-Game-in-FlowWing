@@ -407,10 +407,14 @@ class Screen {
 
 
   drawScreen() -> nthg {
+  /; do nothing
+
   }
 
 
   updateScreen() -> nthg {
+  /; do nothing
+
   }
 
 
