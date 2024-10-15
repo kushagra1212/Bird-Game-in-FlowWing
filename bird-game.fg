@@ -12,7 +12,7 @@ type Texture = {
   mipmaps: int,
   format: int
 }
-const fgAnim: FlowWingAnim = new FlowWingAnim(screenWidth, screenHeight, "snake-game-in-flowwing", FPS)
+const fgAnim: FlowWingAnim = new FlowWingAnim(screenWidth, screenHeight, "Bird Game", FPS)
 const GAME_SPEED = 100
 type GameScreenType = {
   MENU: int,
